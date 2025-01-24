@@ -8,13 +8,11 @@
     font-size: 36px;
 }
 
-.third {
-    /* This feels like a waste */
+.font-24 {
     font-size: 24px;
 }
 
 #fourth {
     background-color: lightgreen;
     font-weight: bold;
-    font-size: 24px;
 }
